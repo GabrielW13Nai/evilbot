@@ -30,3 +30,4 @@ addJs(chrome.runtime.getURL('js/fengari-web.js'), () => {
   // ✅ FINAL script
   addJs(chrome.runtime.getURL('index.js'));
 });});});});});});});});});});
+
