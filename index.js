@@ -5474,3 +5474,4 @@ function subscribeToChannels() {
 }
 
 addBot();
+
